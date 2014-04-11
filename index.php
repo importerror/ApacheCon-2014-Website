@@ -8,14 +8,14 @@ if ($page_name=='') {
 elseif ($page_name=='index.html') {
 	include $browser_t.'/index.html';
 	}
-elseif ($page_name=='features.html') {
-	include $browser_t.'/features.html';
+elseif ($page_name=='About.html') {
+	include $browser_t.'/About.html';
 	}
 elseif ($page_name=='work.html') {
 	include $browser_t.'/work.html';
 	}
-elseif ($page_name=='blog.html') {
-	include $browser_t.'/blog.html';
+elseif ($page_name=='agenda.html') {
+	include $browser_t.'/agenda.html';
 	}
 elseif ($page_name=='contact.html') {
 	include $browser_t.'/contact.html';

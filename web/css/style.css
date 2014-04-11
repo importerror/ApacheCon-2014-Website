@@ -303,23 +303,23 @@ padding: 0.8em 0 0.5em 0;
 }
 /*----//works-grid-caption----*/
 /*----//End-works----*/
-/*----start-blog----*/
-.blog{
+/*----start-agenda----*/
+.agenda{
 	position: relative;
 	padding: 4em 0;
 }
-.blog h3{
+.agenda h3{
 	text-align: center;
 	color: #ECBA0B;
 	font-weight: 700;
 	font-size: 2.2em;
 	padding: 0em 0 1.95em 0;
 }
-.blog h3 span {
+.agenda h3 span {
 	font-weight: 400;
 	padding-right: 0.3em;
 }
-.blog i {
+.agenda i {
 	height: 8px;
 	width: 120px;
 	display: block;
@@ -367,7 +367,7 @@ padding: 0.8em 0 0.5em 0;
 	margin: 0 auto;
 	font-size: 0.95em;
 }
-/*----//End-blog----*/
+/*----//End-agenda----*/
 /*---start-contact---*/
 .contact{
 	margin-top:2em;
@@ -696,11 +696,11 @@ padding: 0.8em 0 0.5em 0;
 		margin-bottom: 1em;
 		text-align: center;
 	}
-	.top-grids i,.works i,.blog i,.contact-info i{
+	.top-grids i,.works i,.agenda i,.contact-info i{
 		width: 100px;
 		left: 42.8%;
 	}
-	.top-grids h3,.works h3,.blog h3,.contact-info h3{
+	.top-grids h3,.works h3,.agenda h3,.contact-info h3{
 		font-size: 2em;
 	}
 	.works {
@@ -709,10 +709,10 @@ padding: 0.8em 0 0.5em 0;
 	.works h3 {
 		padding: 0em 0 1.2em 0;
 	}
-	.blog {
+	.agenda {
 		padding: 2.5em 0;
 	}
-	.blog h3 {
+	.agenda h3 {
 		padding: 0em 0 1.2em 0;
 	}
 	.post-pic {
@@ -794,11 +794,11 @@ padding: 0.8em 0 0.5em 0;
 		margin-bottom: 1em;
 		text-align: center;
 	}
-	.top-grids i,.works i,.blog i,.contact-info i{
+	.top-grids i,.works i,.agenda i,.contact-info i{
 		width: 100px;
 		left: 39.8%;
 	}
-	.top-grids h3,.works h3,.blog h3,.contact-info h3{
+	.top-grids h3,.works h3,.agenda h3,.contact-info h3{
 		font-size: 2em;
 	}
 	.works {
@@ -807,10 +807,10 @@ padding: 0.8em 0 0.5em 0;
 	.works h3 {
 		padding: 0em 0 1.2em 0;
 	}
-	.blog {
+	.agenda {
 		padding: 2.5em 0;
 	}
-	.blog h3 {
+	.agenda h3 {
 		padding: 0em 0 1.2em 0;
 	}
 	.post-pic {
@@ -892,11 +892,11 @@ padding: 0.8em 0 0.5em 0;
 		margin-bottom: 1em;
 		text-align: center;
 	}
-	.top-grids i,.works i,.blog i,.contact-info i{
+	.top-grids i,.works i,.agenda i,.contact-info i{
 		width: 100px;
 		left: 37.8%;
 	}
-	.top-grids h3,.works h3,.blog h3,.contact-info h3{
+	.top-grids h3,.works h3,.agenda h3,.contact-info h3{
 		font-size: 1.8em;
 	}
 	.works {
@@ -905,10 +905,10 @@ padding: 0.8em 0 0.5em 0;
 	.works h3 {
 		padding: 0em 0 1.2em 0;
 	}
-	.blog {
+	.agenda {
 		padding: 2.5em 0;
 	}
-	.blog h3 {
+	.agenda h3 {
 		padding: 0em 0 1.2em 0;
 	}
 	.post-pic {
@@ -1005,11 +1005,11 @@ padding: 0.8em 0 0.5em 0;
 		margin-bottom: 1em;
 		text-align: center;
 	}
-	.top-grids i,.works i,.blog i,.contact-info i{
+	.top-grids i,.works i,.agenda i,.contact-info i{
 		width: 80px;
 		left: 37.8%;
 	}
-	.top-grids h3,.works h3,.blog h3,.contact-info h3{
+	.top-grids h3,.works h3,.agenda h3,.contact-info h3{
 		font-size: 1.5em;
 	}
 	.works {
@@ -1018,10 +1018,10 @@ padding: 0.8em 0 0.5em 0;
 	.works h3 {
 		padding: 0em 0 1.2em 0;
 	}
-	.blog {
+	.agenda {
 		padding: 2.5em 0;
 	}
-	.blog h3 {
+	.agenda h3 {
 		padding: 0em 0 1.2em 0;
 	}
 	.post-pic {

@@ -157,7 +157,7 @@ body{
 	top: 0px;
 	left: 44.8%;
 }
-.top-grids i, .works i, .blog i, .contact-info i {
+.top-grids i, .works i, .agenda i, .contact-info i {
 	width: 40px;
 	left: 42%;
 }
@@ -242,23 +242,23 @@ body{
 }
 /*----//works-grid-caption----*/
 /*----//End-works----*/
-/*----start-blog----*/
-.blog{
+/*----start-agenda----*/
+.agenda{
 	position: relative;
 	padding: 1.8em 0;
 }
-.blog h3{
+.agenda h3{
 	text-align: center;
 	color: #ECBA0B;
 	font-weight: 700;
 	font-size: 1.2em;
 	padding: 0em 0 1.2em 0;
 }
-.blog h3 span {
+.agenda h3 span {
 	font-weight: 400;
 	padding-right: 0.3em;
 }
-.blog i {
+.agenda i {
 	height: 8px;
 	display: block;
 	background: #FAC81B;
@@ -294,7 +294,7 @@ body{
 	margin: 0 auto;
 	font-size: 0.875em;
 }
-/*----//End-blog----*/
+/*----//End-agenda----*/
 /*---start-contact---*/
 .contact{
 	margin-top:2em;
