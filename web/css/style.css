@@ -59,7 +59,7 @@ src:url("../fonts/samarn.ttf") format('opentype');
 }
 .active a span{
 	height: 6px;
-	width: 84px;
+	width: 110px;
 	background: #E9696A;
 	display: block;
 	position: absolute;
@@ -68,7 +68,7 @@ src:url("../fonts/samarn.ttf") format('opentype');
 }
 .top-nav ul li a{
 	color: #FFFFFF;
-	font-size: 1em;
+	font-size: 140%;
 	padding: 1.6em 1.3em 2em;
 	display: block;
 	font-family: 'Lato', sans-serif;
