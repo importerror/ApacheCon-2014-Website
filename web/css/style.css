@@ -19,7 +19,7 @@ a{text-decoration:none;}
 .vertical-top{	vertical-align:top;}/* vertical align top */
 nav.vertical ul li{	display:block;}/* vertical menu */
 nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
-img{max-width:100%;margin: 13px 0px 0px -73px;}
+img{max-width:100%;}
 /*end reset*/
 body{
 	font-family: 'Open Sans', sans-serif;
@@ -347,7 +347,7 @@ padding: 0.8em 0 0.5em 0;
 	position:relative;
 }
 .post-pic{
-	position:relative;
+	/*position:relative;*/
 }
 .admin1{
 	position: absolute;
