@@ -456,6 +456,7 @@
 }
 .sy-box{
 	position:relative;
+  width: 55%;
 }
 /* line 275, ../src/slippry.scss */
 .sy-pager li {
