@@ -114,7 +114,7 @@ body, hr.fancy-line:after {
 /*----start-header---*/
 /*--- start-top-grids----*/
 .top-grids{
-	background:rgba(213, 203, 200, 1);
+	background:#180600;
 }
 .top-grids h3{
 	text-align: center;
@@ -214,8 +214,8 @@ padding: 0.8em 0 0.5em 0;
 .top-grid1 p{
         font-size: 120%;
         line-height: 1.6em;
-        color: rgba(64, 44, 77, 1);
-        margin: 0.2em 0 1em;
+        color: rgba(215, 215, 215, 1);
+        margin: -1.8em 0 1em;
 }
 
 
@@ -258,6 +258,29 @@ padding: 0.8em 0 0.5em 0;
 	left: 44.8%;
 }
 /*--- start-top-grids----*/
+.top-grids h3{
+	display:center;
+}
+.top-grids h3{
+	text-align: center;
+	color: #FAC81B;
+	font-weight: 700;
+	font-size: 2em;
+	padding: 0em 0 1.95em 0;
+}
+.top-grids h3 span{
+	font-weight: 400;
+	padding-right: 0.3em;
+}
+.top-grids i {
+	height: 8px;
+	width: 120px;
+	display: block;
+	background: #FAC81B;
+	position: absolute;
+	top: 0px;
+	left: 44.8%;
+}
 /*----start-blog----*/
 .blog{
 	position: relative;
