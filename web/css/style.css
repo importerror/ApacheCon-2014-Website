@@ -258,6 +258,35 @@ padding: 0.8em 0 0.5em 0;
 	left: 44.8%;
 }
 /*--- start-top-grids----*/
+/*----start-blog----*/
+.blog{
+	position: relative;
+	padding: 4em 0;
+	background: #F6F1ED;
+}
+.blog h3{
+	display:center;
+}
+.blog h3{
+	text-align: center;
+	color: #FAC81B;
+	font-weight: 700;
+	font-size: 2em;
+	padding: 0em 0 1.95em 0;
+}
+.blog h3 span{
+	font-weight: 400;
+	padding-right: 0.3em;
+}
+.blog i {
+	height: 8px;
+	width: 120px;
+	display: block;
+	background: #FAC81B;
+	position: absolute;
+	top: 0px;
+	left: 44.8%;
+}
 /*----start-works----*/
 .works{
 	position: relative;
