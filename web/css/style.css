@@ -303,12 +303,12 @@ padding: 0.8em 0 0.5em 0;
 }
 .blog i {
 	height: 8px;
-	width: 120px;
+	width: 160px;
 	display: block;
 	background: #FAC81B;
 	position: absolute;
 	top: 0px;
-	left: 44.8%;
+	left: 39em;
 }
 /*----start-works----*/
 .works{
@@ -332,7 +332,7 @@ padding: 0.8em 0 0.5em 0;
 }
 .works i {
 	height: 8px;
-	width: 120px;
+	width: 140px;
 	display: block;
 	background: #FAC81B;
 	position: absolute;
