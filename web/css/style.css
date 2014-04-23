@@ -80,7 +80,7 @@ body, hr.fancy-line:after {
 }
 /*----start-header---*/
 .header{
-	background: #000000;
+	background: #3575AF;
 	width: 100%;
 	margin-top: 3.5%;
 }
@@ -114,7 +114,7 @@ body, hr.fancy-line:after {
 /*----start-header---*/
 /*--- start-top-grids----*/
 .top-grids{
-	background:#180600;
+	background:#9BB8D8;
 }
 .top-grids h3{
 	text-align: center;
@@ -214,7 +214,7 @@ padding: 0.8em 0 0.5em 0;
 .top-grid1 p{
         font-size: 120%;
         line-height: 1.6em;
-        color: rgba(215, 215, 215, 1);
+        color: #ffffff;
         margin: -1.8em 0 1em;
 }
 
