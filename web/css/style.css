@@ -106,7 +106,7 @@ body, hr.fancy-line:after {
 .top-nav ul li a{
 	color: #FFFFFF;
 	font-size: 140%;
-	padding: 1.6em 1.3em 2em;
+	padding: 0.6em 1em 2em;
 	display: block;
 	font-family: 'Lato', sans-serif;
 	position: relative;
@@ -270,7 +270,7 @@ padding: 0.8em 0 0.5em 0;
 }
 .top-grids h3 span{
 	font-weight: 400;
-	padding-right: 0.3em;
+	/*padding-right: 0.3em;*/
 }
 .top-grids i {
 	height: 8px;
@@ -314,7 +314,7 @@ padding: 0.8em 0 0.5em 0;
 .works{
 	position: relative;
 	padding: 4em 0;
-	background: #F6F1ED;
+	background: rgba(1, 152, 185, 1);;
 }
 .works h3{
 	display:center;
