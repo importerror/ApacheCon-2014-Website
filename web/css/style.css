@@ -265,7 +265,7 @@ padding: 0.8em 0 0.5em 0;
 }
 .top-grids i {
 	height: 8px;
-	width: 180px;
+	width: 18g0px;
 	display: block;
 	background: #FAC81B;
 	position: relative;
@@ -1145,7 +1145,7 @@ padding: 0.8em 0 0.5em 0;
 .Agenda_Table {
 	margin:0px;padding:0px;
 	width:100%;
-	box-shadow: 10px 10px 5px #888888;
+	/*box-shadow: 10px 10px 5px #888888;*/
 	border:1px solid #cccccc;
 	
 	-moz-border-radius-bottomleft:25px;
