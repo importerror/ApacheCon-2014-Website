@@ -6,7 +6,7 @@ blockquote,q{quotes:none;}
 blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
 table{border-collapse:collapse;border-spacing:0;}
 /* start editing from here */
-a{text-decoration:none;}
+a{text-decoration:none; color: red;}
 .txt-rt{text-align:right;}/* text align right */
 .txt-lt{text-align:left;}/* text align left */
 .txt-center{text-align:center;}/* text align center */
@@ -114,7 +114,9 @@ body, hr.fancy-line:after {
 /*----start-header---*/
 /*--- start-top-grids----*/
 .top-grids{
-	background:#0198B9;
+	background-image: url("../images/conference1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 .top-grids h3{
 	text-align: center;
@@ -215,7 +217,7 @@ padding: 0.8em 0 0.5em 0;
         font-size: 120%;
         line-height: 1.6em;
         color: #ffffff;
-        margin: -1.8em 0 1em;
+        margin: -3.8em 0 1em;
 }
 
 
@@ -307,7 +309,9 @@ padding: 0.8em 0 0.5em 0;
 .works{
 	position: relative;
 	padding: 4em 0;
-	background: rgba(1, 152, 185, 1);;
+	background-image: url("../images/conference.png");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 .works h3{
 	display:center;
